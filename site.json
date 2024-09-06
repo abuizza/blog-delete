@@ -86,14 +86,17 @@
       "slug": "lesson-1",
       "order": 1,
       "parent": null,
-      "title": "Lesson 1",
-      "description": "",
+      "title": "Cara 1",
+      "description": "Hukum &#8203;Kesenangan\n1. &#8203;Kesenangan &#8203;kalau &#8203;terlalu &#8203;sering &#8203;akan &#8203;bosan\n2. &#8203;\n",
       "metadata": {
         "locked": false,
         "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1723216821
+        "images": {},
+        "videos": {},
+        "updated": 1725588362,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
